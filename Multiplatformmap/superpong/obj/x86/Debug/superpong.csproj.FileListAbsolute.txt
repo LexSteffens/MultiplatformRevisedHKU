@@ -1,0 +1,108 @@
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\superpong.exe
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\superpong.pdb
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\obj\x86\Debug\superpong.exe
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\obj\x86\Debug\superpong.pdb
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Newball.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Paddle.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Paddle2.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\obj\x86\Debug\superpong.csprojResolveAssemblyReference.cache
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Linkswint.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Pongstart.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Rechtswint.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\CPU.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Player.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\VersusCPU.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\control.png
+C:\Users\Lex\Documents\Visual Studio 2015\Projects\WIP\PROJECTS\superpong\superpong\bin\Windows\x86\Debug\Content\Xboxcontrolimage.xnb
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\obj\x86\Debug\superpong.exe
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\obj\x86\Debug\superpong.pdb
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\control.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\CPU.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Linkswint.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Newball.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Paddle.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Paddle2.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Player.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Pongstart.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Rechtswint.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\VersusCPU.png
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Xboxcontrolimage.xnb
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\superpong.exe
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\superpong.pdb
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Lex\Desktop\School zooi\Multiplatformmap\superpong\obj\x86\Debug\superpong.csprojResolveAssemblyReference.cache
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\obj\x86\Debug\superpong.exe
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\obj\x86\Debug\superpong.pdb
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\control.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\CPU.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Linkswint.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Newball.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Paddle.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Paddle2.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Player.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Pongstart.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Rechtswint.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\VersusCPU.png
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\Content\Xboxcontrolimage.xnb
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\superpong.exe
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\superpong.pdb
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Lex\Desktop\Multiplatformmap\superpong\obj\x86\Debug\superpong.csprojResolveAssemblyReference.cache
